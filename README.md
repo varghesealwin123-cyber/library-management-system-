@@ -1,9 +1,5 @@
 # 🏛️ joe library
 
-A production-ready Full-Stack Library Management System built with **Spring Boot 3**, **PostgreSQL / H2**, and **Thymeleaf**. Designed with a classic 90s Desktop Operating System visual aesthetic (following the Retro-OS UI Kit styleguide).
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Soulofghost/llm)
-
 ---
 
 ## 🚀 One-Click Cloud Deployment
